@@ -6,7 +6,7 @@ How to run this application:
 
 MySQL database needs to be set up.
 
-----------------
+---------------
 Developers:
 ------------
 This software is published under Team Husky.
